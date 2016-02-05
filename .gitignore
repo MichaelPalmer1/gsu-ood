@@ -1,0 +1,7 @@
+.idea/
+bin/
+submissions/
+
+*.iml
+.classpath
+.project
