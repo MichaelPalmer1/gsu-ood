@@ -3,5 +3,7 @@ bin/
 submissions/
 
 *.iml
+*.uml
+*.vsdx
 .classpath
 .project
