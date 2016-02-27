@@ -11,3 +11,6 @@ Decorator pattern
 
 ## Assignments 4 & 5
 Factory and Singleton patterns
+
+## Assignment 6
+Command pattern
