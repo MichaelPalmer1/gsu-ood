@@ -14,3 +14,6 @@ Factory and Singleton patterns
 
 ## Assignment 6
 Command pattern
+
+## Assignment 7
+Adapter pattern
