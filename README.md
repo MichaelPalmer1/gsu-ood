@@ -17,3 +17,6 @@ Command pattern
 
 ## Assignment 7
 Adapter pattern
+
+## Assignment 8
+Facade pattern
