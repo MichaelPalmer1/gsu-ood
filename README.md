@@ -20,3 +20,6 @@ Adapter pattern
 
 ## Assignment 8
 Facade pattern
+
+## Assignment 9
+Iterator pattern
