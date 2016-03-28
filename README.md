@@ -23,3 +23,6 @@ Facade pattern
 
 ## Assignment 9
 Iterator pattern
+
+## Assignment 10
+Composite pattern
