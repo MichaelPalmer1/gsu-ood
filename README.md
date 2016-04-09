@@ -26,3 +26,6 @@ Iterator pattern
 
 ## Assignment 10
 Composite pattern
+
+## Assignment 11
+Template pattern
